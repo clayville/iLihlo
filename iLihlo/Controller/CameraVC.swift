@@ -1,9 +1,9 @@
 //
 //  ViewController.swift
-//  vision-app-dev
+//  iLihlo
 //
-//  Created by Caleb Stultz on 7/11/17.
-//  Copyright © 2017 Caleb Stultz. All rights reserved.
+//  Created by Clayton Nyamudzarumbu on 7/11/19.
+//  Copyright © 2019 Clayton Nyamudzarumbu. All rights reserved.
 //
 
 import UIKit

@@ -1,6 +1,6 @@
 //
 //  RoundedShadowImageView.swift
-//  vision-app-dev
+//  iLihlo
 //
 //  Created by Clayton Nyamudzarumbu on 7/11/19.
 //  Copyright © 2019 Clayton Nyamudzarumbu. All rights reserved.
